@@ -34,8 +34,7 @@ public class primeno {
 
 //     public static void main(String[] args) {
 //         Scanner sc = new Scanner(System.in);
-//         int num = sc.nextInt();
-//         System.out.println();
+//         Prime(n);
         
 //     }
 //     static void Prime(int n) {
@@ -46,16 +45,16 @@ public class primeno {
 //         int c = 2;
 
 //         while( c * c <= n) {
-//             if(n % c==0){
-//                 System.out.println("not a prime number");
-//             }
-//             c++;
-//         }
-//         if ( c * c >n) {
-//             System.out.println("prime number");
-//         }
-//         System.out.println("not a prime number");
-            
+//      
+    //         if (n % c == 0) {
+    //             System.out.println("Not a prime number");
+    //             return;
+    //         }
+    //         c++;
+    //     }
+
+    //     System.out.println("Prime number");
+      
 //     }
     
 // }
@@ -63,4 +62,5 @@ public class primeno {
 
 // 1. nmber 1 se jyada hona chaiye
 // 2. 4 no.tak dekho if(n <=1) check krro
+
 // 3. while check krro while( c * c / n)
